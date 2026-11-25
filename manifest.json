@@ -1,0 +1,74 @@
+[
+  {
+    "id": "yixuan-line-01",
+    "stage": "Stage 3 声先于画 (1)",
+    "subtitle": "乖徒儿，夜色已深了，在发什么呆呢",
+    "text": "乖徒儿，夜色已深了，在发什么呆呢。",
+    "file": "yixuan-line-01.wav",
+    "path": "D:\\Antigravity work\\yixuan\\voice\\yixuan-line-01.wav",
+    "model": "v5dev",
+    "duration_sec": 4.61,
+    "sample_rate": 48000,
+    "notes": "pure v5dev + artifact-free analog resample + soft opening volume envelope"
+  },
+  {
+    "id": "yixuan-line-02",
+    "stage": "Stage 3 声先于画 (2)",
+    "subtitle": "也罢，来陪师父坐坐吧",
+    "text": "也罢，来陪师父坐坐吧。",
+    "file": "yixuan-line-02.wav",
+    "path": "D:\\Antigravity work\\yixuan\\voice\\yixuan-line-02.wav",
+    "model": "v5dev",
+    "duration_sec": 2.49,
+    "sample_rate": 48000,
+    "notes": "locked"
+  },
+  {
+    "id": "yixuan-line-03",
+    "stage": "Stage 5 月下对白 (1)",
+    "subtitle": "看师父做什么呢",
+    "text": "看师父做什么呢。",
+    "file": "yixuan-line-03.wav",
+    "path": "D:\\Antigravity work\\yixuan\\voice\\yixuan-line-03.wav",
+    "model": "v5dev",
+    "duration_sec": 1.71,
+    "sample_rate": 48000,
+    "notes": "locked"
+  },
+  {
+    "id": "yixuan-line-04",
+    "stage": "Stage 5 月下对白 (2)",
+    "subtitle": "师父只是在想，这道观，往后便没有烟火气了",
+    "text": "师父只是在想，这道观，往后便没有烟火气了。",
+    "file": "yixuan-line-04.wav",
+    "path": "D:\\Antigravity work\\yixuan\\voice\\yixuan-line-04.wav",
+    "model": "v5dev",
+    "duration_sec": 6.31,
+    "sample_rate": 48000,
+    "notes": "pure v5dev + artifact-free analog resample + soft opening volume envelope"
+  },
+  {
+    "id": "yixuan-line-05",
+    "stage": "Stage 6 黑屏明月转场",
+    "subtitle": "罢了，走吧，咱们回家",
+    "text": "罢了，走吧，咱们回家。",
+    "file": "yixuan-line-05.wav",
+    "path": "D:\\Antigravity work\\yixuan\\voice\\yixuan-line-05.wav",
+    "model": "v5dev",
+    "duration_sec": 3.16,
+    "sample_rate": 48000,
+    "notes": "pure v5dev + artifact-free analog resample + soft opening volume envelope"
+  },
+  {
+    "id": "yixuan-line-06",
+    "stage": "Stage 7 暖光厨房",
+    "subtitle": "饿了吗，师父给你做夜宵。",
+    "text": "饿了吗，师父给你做夜宵。",
+    "file": "yixuan-line-06.wav",
+    "path": "D:\\Antigravity work\\yixuan\\voice\\yixuan-line-06.wav",
+    "model": "v5dev",
+    "duration_sec": 2.76,
+    "sample_rate": 48000,
+    "notes": "pure v5dev + artifact-free analog resample + soft opening volume envelope"
+  }
+]
